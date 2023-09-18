@@ -1,6 +1,6 @@
 # Cloud-and-DevOps-CheatSheet
 
-¡Bienvenido al repositorio "Cloud-and-DevOps-CheatSheet"! Este proyecto tiene como objetivo proporcionar una colección de recursos y guías para ingenieros DevOps. Aquí encontrarás información y tutoriales sobre una variedad de temas clave en el mundo de DevOps y la nube.
+¡Bienvenido! Este proyecto tiene como objetivo proporcionar una colección de recursos y guías para ingenieros DevOps. Aquí encontrarás información y tutoriales sobre una variedad de temas clave en el mundo de DevOps y la nube.
 
 ## Contenido
 
